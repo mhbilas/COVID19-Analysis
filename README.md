@@ -1,4 +1,5 @@
 # COVID19 Analysis
+Assignment for London School of Economics Data Analytics Using Python course
 
 Scenario:
 
