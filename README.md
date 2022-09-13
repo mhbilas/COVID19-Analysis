@@ -7,10 +7,7 @@ You are a data analyst working with the UK government to analyse COVID-19 data (
 You are expected to analyse the data to identify patterns and trends that could help inform their marketing strategy to promote the vaccine and ultimately increase the vaccination rate. The government would like to understand:
 
 - What the total vaccinations are for a particular region
-- Where they should target the first marketing campaign(s) based on:
--- area(s) with the largest number of people who have received a first dose but no second dose
--- which area has the greatest number of recoveries so that they can avoid this area in their initial campaign runs
--- whether deaths have been increasing across all regions over time or if a peak has been reached
+- Where they should target the first marketing campaign(s) based on: area(s) with the largest number of people who have received a first dose but no second dose; which area has the greatest number of recoveries so that they can avoid this area in their initial campaign runs; whether deaths have been increasing across all regions over time or if a peak has been reached
 - What other types of Twitter data points and tweets have both #coronavirus and #vaccinated hashtags 
 - Which regions have experienced a peak in hospitalisation numbers and if there are regions that have not reached a peak yet
 - If there are interesting points in time where different regions displayed unique behaviour patterns
