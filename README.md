@@ -1,4 +1,4 @@
-# LSE_DA_COVID_analysis
+# COVID19 Analysis
 
 -add Week 1
 -add Week 2
